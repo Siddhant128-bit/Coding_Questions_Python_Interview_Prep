@@ -15,7 +15,7 @@
     <br>
     <h2> Contents: <h2>
     <ol>
-        <li><a href='basic_q_a.ipynb'> Basic Python Questions/Solutions </a></li>
+        <li><a href='Basic_Python_Questions.ipynb'> Basic Python Questions/Solutions </a></li>
         <li> Class Understanding and Questions </li>
     </ol>
 </div>
