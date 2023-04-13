@@ -33,6 +33,7 @@
     <h2> 3. Python OOP Understanding  </h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     In this notebook we are going to learn about OOP implementation using python
+    <br><br>
     <h2> 4. Numpy Basic Questions  </h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     In this notebook we are going to learn about Numpy library, What can be done<br>&nbsp;&nbsp;&nbsp;&nbsp; with numpy array and prebuilt functions used.
