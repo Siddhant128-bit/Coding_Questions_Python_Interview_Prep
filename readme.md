@@ -17,7 +17,8 @@
     <ol>
         <li><a href='Basic_Python_Questions.ipynb'> Basic Python Questions/Solutions </a></li>
         <li> <a href='Pandas_Python_Question.ipynb'> Pandas Basic Questions/Solutions </a></li>
-        <li> <a href='Python_OOP_Understanding.ipynb'> Python OOP Understanding</a></li>        
+        <li> <a href='Python_OOP_Understanding.ipynb'> Python OOP Understanding</a></li>
+        <li> <a href='Numpy_Basic_Questions.ipynb'> Numpy Basic Questions</a></li>        
     </ol>
 </div>
 
@@ -32,4 +33,8 @@
     <h2> 3. Python OOP Understanding  </h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     In this notebook we are going to learn about OOP implementation using python
+    <h2> 4. Numpy Basic Questions  </h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    In this notebook we are going to learn about Numpy library, What can be done<br>&nbsp;&nbsp;&nbsp;&nbsp; with numpy array and prebuilt functions used.
+
 </div>
